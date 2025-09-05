@@ -70,6 +70,10 @@ export default {
 					gradient: 'linear-gradient(135deg, #6B46C1 0%, #374151 100%)'
 				}
 			},
+			fontFamily: {
+				montserrat: ['Montserrat', 'sans-serif'],
+				'open-sans': ['Open Sans', 'sans-serif'],
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',
